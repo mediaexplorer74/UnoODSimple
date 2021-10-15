@@ -22,7 +22,7 @@ A wrapper around microsoft identity connector and microsoft graph api to access 
 * Install UNO Platform extension
    
 Important note:  You will don't need a microsoft application id , and this is kind of magic! 
-Thanx to fantastic  [OneDriveSimple] (https://www.nuget.org/packages/Xamarin.OneDrive.Connector.Profile)
+Thanx to fantastic  [OneDriveSimple] (https://onedrive.live.com/redir?resid=40CFFDE85F1AB56A!2170&authkey=!ANdUUFzrZtx8eCY)
 sample as cool base of OneDrive work example :)
 
 
