@@ -49,7 +49,8 @@ which I just haven't had the time to get to yet.
 
 ## Solution Layout
 Projects have a DOCs which expands on the internal functionality and layout of that project... it's good for your own R.E. 
-There are no DOCs which explains all architecture, API, OneDride auth. and etc. yet... this is just my UNO beginning =) =)
+There are no DOCs which explains all architecture, API, OneDride auth. and etc. yet... 
+this is just my UNO beginning! =) 
 
 With best wishes,
 
@@ -57,9 +58,9 @@ With best wishes,
 
 ## Thanks!
 I wanted to put down some thank you's here for folks/projects/websites that were invaluable for helping me get this project into a functional state:
-* [Piotr Karocki](https://github.com/pkar70/) - InteropTools creator/author
-* [Leverson Carlos](https://github.com/LeversonCarlos) 
-* [Uno Platform](https://github.com/uno) 
+* [Piotr Karocki](https://github.com/pkar70/) - Andro2UWP project creator/author/developer
+* [Leverson Carlos](https://github.com/LeversonCarlos) Author/Developer of some interesting projects like a OneDrive.Connector
+* [Uno Platform](https://github.com/uno) "Uno Momento" =)))))))))
 
 ## License
 MIT License - see the [LICENSE](LICENSE) file for details.
