@@ -58,9 +58,9 @@ With best wishes,
 
 ## Thanks!
 I wanted to put down some thank you's here for folks/projects/websites that were invaluable for helping me get this project into a functional state:
-* [Piotr Karocki](https://github.com/pkar70/) - Andro2UWP project creator/author/developer
+* [Piotr Karocki](https://github.com/pkar70) - Andro2UWP project creator/author/developer
 * [Leverson Carlos](https://github.com/LeversonCarlos) Author/Developer of some interesting projects like a OneDrive.Connector
-* [Uno Platform](https://github.com/uno) "Uno Momento" =)))))))))
+* [Uno Platform](https://github.com/unoplatform) "Uno Momento" =)))))))))
 
 ## License
 MIT License - see the [LICENSE](LICENSE) file for details.
